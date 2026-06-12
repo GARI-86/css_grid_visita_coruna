@@ -1,6 +1,3 @@
-### 2. Visita_Coruña ### 
-
-
 # 🖼️ css_grid_visita_coruna - Galería Fotográfica Adaptable
 
 ¡Bienvenido/a a este recorrido visual! Este proyecto consiste en una galería de imágenes interactiva y dinámica inspirada en los paisajes de A Coruña. El propósito principal del repositorio es demostrar el poder del diseño web moderno para organizar contenido visual de forma compleja y elegante sin depender de herramientas externas pesadas.
