@@ -1,4 +1,4 @@
-### 2. Visita_Coruña
+### 2. Visita_Coruña ### 
 
 ```markdown
 # 🖼️ css_grid_visita_coruna - Galería Fotográfica Adaptable
